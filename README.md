@@ -1,46 +1,59 @@
-name: Generate Contribution Graph
+<!-- Sunny's GitHub Profile -->
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # run manually anytime
+<div align="center">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+# Hi 👋 I'm Sunny
 
-      - name: Generate contribution graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Learning+Python+%F0%9F%90%8D;Exploring+AI+%26+ML+%F0%9F%A4%96;Building+Cool+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-      - name: Push to repo
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<!-- Contribution Snake Animation -->
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech AI/ML — IIMT University, Greater Noida
+- 🔭 Currently building: Portfolio + Python Projects
+- 🌱 Learning: Python, Git, HTML/CSS, Automation
+- ⚡ Anime fan & daily coder 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF88)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyv-in&show_icons=true&theme=github_dark&border_color=00FF88&title_color=00FF88&icon_color=00AAFF)](https://github.com/sunnyv-in)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sunnyv-in&theme=github-dark-blue&border=00FF88&ring=ff4500&fire=ffd700)](https://github.com/sunnyv-in)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sunnyv-in/sunnyv-in/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sunnyv-in/sunnyv-in/output/github-contribution-grid-snake.svg"
-  />
-  <img alt="Sunny's contribution snake"
-    src="https://raw.githubusercontent.com/sunnyv-in/sunnyv-in/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnyv-in/sunnyv-in/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunnyv-in/sunnyv-in/output/github-contribution-grid-snake.svg"/>
+  <img alt="Sunny's contribution snake" src="https://raw.githubusercontent.com/sunnyv-in/sunnyv-in/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<!-- Live GitHub Stats Card -->
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyv-in&show_icons=true&theme=github_dark&border_color=39d353&title_color=39d353)](https://github.com/sunnyv-in)
+---
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sunnyv-in&theme=github-dark-blue&border=39d353&ring=ff4757&fire=ffd700)](https://github.com/sunnyv-in)
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=sunnyv-in&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+
+*"The secret of getting ahead is getting started." 🚀*
+
+</div>
