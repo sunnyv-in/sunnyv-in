@@ -1,30 +1,28 @@
-# Hi 👋 I'm Sunny
+name: Generate Contribution Graph
 
-💻 Learning Python
-🌐 Interested in AI-ML, Automation, System Design & webdevlopment
-⚡ Exploring AI and Programming
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:        # run manually anytime
 
----
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-## 🚀 Currently Learning
+      - name: Generate contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-* Python Programming
-* Git & GitHub
-* Automation
-
----
-
-## 🛠 Tech Stack
-
-* Python
-* HTML
-* CSS
-* Git
-
----
-
-## 📊 GitHub Stats
-
-Working on building projects and improving coding skills every day 🚀
-
--->
+      - name: Push to repo
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
