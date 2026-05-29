@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyv-in&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00AAFF&text_color=ffffff)](https://github.com/sunnyv-in)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyv-in&show_icons=true&theme=tokyonight)](https://github.com/sunnyv-in)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sunnyv-in&theme=github-dark-blue&border=00FF88&ring=ff4500&fire=ffd700)](https://github.com/sunnyv-in)
 
