@@ -49,23 +49,46 @@ Still learning. Still building. 🚀
 
 <br clear="right">
 
-## 🛠️ Tech Stack
+## ⌈ TECH STACK ⌋
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF88)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+### ◆ Languages & Libraries ◆
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,vscode,github" />
+</p>
+
+### ◆ Data Science & AI ◆
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+### ◆ Currently Learning ◆
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+<p align="center">
+  🤖 Artificial Intelligence &nbsp; • &nbsp; 🧠 Machine Learning &nbsp; • &nbsp; ⚡ Automation
+</p>
+
+
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+  
+## 📊 GitHub Stats
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sunnyv-in&theme=synthwave&hide_border=true&border_radius=10&short_numbers=true" alt="GitHub Streak" /></a>
 
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyv-in&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00AAFF&text_color=ffffff)](https://github.com/sunnyv-in)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sunnyv-in&theme=github-dark-blue&border=00FF88&ring=ff4500&fire=ffd700)](https://github.com/sunnyv-in)
+<hr>
 
+## 📈 Contribution Graph
+[![Sunny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyv-in&theme=tokyo-night)](https://github.com/sunnyv-in)
 </div>
 
 ---
@@ -80,10 +103,12 @@ Still learning. Still building. 🚀
 
 ---
 
+<p align="center">
+  <i>「 My magic is never giving up. 」🍀</i>
+</p>
+
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=sunnyv-in&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
+  
 *"The secret of getting ahead is getting started." 🚀*
 
 </div>
