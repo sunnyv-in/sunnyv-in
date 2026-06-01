@@ -2,11 +2,11 @@
 <p align="center">
   <img src="./ChatGPT%20Image%20Jun%202,%202026,%2012_39_35%20AM.png" width="100%" />
 </p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=E5E7EB&center=true&vCenter=true&width=435&lines=Welcome+to+My+Coding+Journey+%E2%9A%94%EF%B8%8F;Training+Arc+in+Progress...;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Thanks+for+Stopping+By+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 
 <h3 align="center"><b>Know About Me</b></h3>
 <hr>
