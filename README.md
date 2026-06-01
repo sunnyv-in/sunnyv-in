@@ -2,18 +2,52 @@
 <p align="center">
   <img src="./ChatGPT%20Image%20Jun%202,%202026,%2012_39_35%20AM.png" width="100%" />
 </p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=E5E7EB&center=true&vCenter=true&width=435&lines=Welcome+to+My+Coding+Journey+%E2%9A%94%EF%B8%8F;Training+Arc+in+Progress...;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Thanks+for+Stopping+By+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+
+<h3 align="center"><b>Know About Me</b></h3>
 <hr>
 
+<img align="right" src="./tenor.gif" width="220">
 
+<ul>
+<h3><b><i>Hey there! I'm Sunny 👋</i></b></h3>
 
-## 🧑‍💻 About Me
+I'm an AI/ML student who enjoys building things one project at a time. <br>Most days you'll find me learning Python, exploring new technologies, and turning ideas into projects.
 
-- 🎓 B.Tech AI/ML — IIMT University, Greater Noida
-- 🔭 Currently building: Portfolio + Python Projects
-- 🌱 Learning: Python, Git, HTML/CSS, Automation
-- ⚡ Anime fan & daily coder 🚀
+Currently diving into Artificial Intelligence, Machine Learning, automation, and software development while building my portfolio and sharpening my skills.
 
----
+When I'm not coding, I'm probably watching anime or planning my next project.
+
+Still learning. Still building. 🚀
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sunnyv-in">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sunny-verma-034807270/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=4FC3F7">
+  </a>
+  &nbsp;
+  <a href="https://x.com/sunnyv_er">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sunnyv.io/">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=C0C0C0">
+  </a>
+</p>
+
+</ul>
+<hr>
+
+<br clear="right">
 
 ## 🛠️ Tech Stack
 
