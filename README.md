@@ -28,22 +28,21 @@ Still learning. Still building. 🚀
 
 <p align="center">
   <a href="https://github.com/sunnyv-in">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sunny-verma-034807270/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=4FC3F7">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/sunnyv_er">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/sunnyv.io/">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=C0C0C0">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
   </a>
 </p>
-
 </ul>
 <hr>
 
@@ -87,6 +86,8 @@ Still learning. Still building. 🚀
 
 <hr>
 
+<div>
+  
 ## 📈 Contribution Graph
 [![Sunny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyv-in&theme=tokyo-night)](https://github.com/sunnyv-in)
 </div>
